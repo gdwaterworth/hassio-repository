@@ -1,6 +1,6 @@
 {
   "name": "Paradox Alarm Interface (Development version Gary)",
-  "version": "dev-latestgary",
+  "version": "dev-latest",
   "slug": "paradox_alarm_interface_dev_gary",
   "description": "Warning. Breaking changes. Clear MQTT before upgrading from deprecated version. Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
